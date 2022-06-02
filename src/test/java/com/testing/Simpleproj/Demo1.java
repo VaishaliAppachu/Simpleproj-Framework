@@ -4,9 +4,7 @@ import org.testng.annotations.Test;
 
 public class Demo1 
 {
-//code modified
-//hello
-//hi
+//conflict
 //by person1
 @Test
 public void demo1()
